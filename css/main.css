@@ -1,0 +1,20 @@
+html{
+	background-color: #fff5db;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  font-size: 100px;
+  font-family: Didot, serif;
+  line-height: 10px;
+
+}
+h2 {
+	font-family: Gill Sans, sans-serif;
+	font-weight: lighter;
+	font-size: 35px;
+	line-height: 5px;
+}
+p1{
+	line-height: 100px;
+}
