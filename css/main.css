@@ -1,16 +1,69 @@
 html{
-	background-color: #fffaeb;
+	background-color: #fffdf7;
+	margin-left: 60px;
+	margin-top: 20px;
 }
 h1 {
-  font-family: "Times New Roman", Times, serif;
-  color: black;
-  font-size: 100px;
-  font-family: Didot, serif;
-  line-height: 10px;
+  font-family: "amplitude-extra-compressed", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 200px;
+	line-height: 10px;
+	margin-bottom: 80px;
 
 }
 h2 {
-	font-family: Gill Sans, sans-serif;
-	font-weight: lighter;
-	font-size: 35px;
+	font-family: 'Protest Strike', sans-serif;
+	font-size: 30px;
 	line-height: 5px;
+	color: black;
+	text-align: left;
+	margin-bottom: 120px;
+
+}
+a {
+	text-decoration: none;	
+}
+
+ul {
+	color: black;
+	list-style-type: none;
+}
+
+a:visited {
+	color:black;
+}
+a:link {
+	color:black;
+}
+a:hover {
+	color:#4f87ff;
+}
+
+p {
+	font-family: Didot, serif;
+	font-size: 40px;
+}
+.red {
+	color: tomato;
+}
+.ar {
+	font-size: 50px;
+}
+
+body {
+	font-size: 25px;
+	font-family: Gill Sans, sans-serif;
+}
+
+p1 {
+	font-size: 25px;
+}
+
+.category {
+	font-size: 40px;
+}
+
+
+
+
