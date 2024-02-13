@@ -1,26 +1,37 @@
 html{
 	background-color: #fffdf7;
-	margin-left: 60px;
+	margin-left: 70px;
 	margin-top: 20px;
+	margin-right: 70px;
 }
 h1 {
   font-family: "amplitude-extra-compressed", sans-serif;
 	font-weight: 700;
 	font-style: normal;
-	font-size: 200px;
+	font-size: 250px;
 	line-height: 10px;
-	margin-bottom: 80px;
+	margin-bottom: 90px;
+	color: #ff4545;
 
 }
 h2 {
-	font-family: 'Protest Strike', sans-serif;
-	font-size: 30px;
-	line-height: 5px;
-	color: black;
-	text-align: left;
-	margin-bottom: 120px;
-
+  font-family: "amplitude-extra-compressed", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 90px;
+	line-height: 70px;
+	margin-bottom: 35px;
 }
+h3 {
+	font-family: "Gill Sans", sans-serif;
+	font-weight: lighter;
+	font-style: italic;
+	font-size: 30px;
+	line-height: 10px;
+	margin-bottom: 120px;
+	
+}
+
 a {
 	text-decoration: none;	
 }
@@ -39,13 +50,8 @@ a:link {
 a:hover {
 	color:#4f87ff;
 }
-
-p {
-	font-family: Didot, serif;
-	font-size: 40px;
-}
 .red {
-	color: tomato;
+	color: #ff4545;
 }
 .ar {
 	font-size: 50px;
@@ -55,9 +61,14 @@ body {
 	font-size: 25px;
 	font-family: Gill Sans, sans-serif;
 }
-
-p1 {
+p {
 	font-size: 25px;
+	margin-left: 150px ;
+	margin-right: 150px ;
+	font-size: 25px;
+	font-family: Gill Sans, sans-serif;
+	line-height: 60px;
+
 }
 
 .category {
@@ -65,5 +76,17 @@ p1 {
 }
 
 
+.newdisco {
+	font-family: "amplitude-extra-compressed", sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 100px;
+}
 
+.f1{
+	font-size: 60px;
+	color: #ff4545;
+	text-decoration: bold;
+	margin-right: 10px;
+}
 
