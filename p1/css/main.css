@@ -11,7 +11,7 @@ h1 {
 	font-size: 250px;
 	line-height: 10px;
 	margin-bottom: 90px;
-	color: #ff4545;
+	color: #5a97fa;
 
 }
 h2 {
@@ -50,8 +50,8 @@ a:link {
 a:hover {
 	color:#4f87ff;
 }
-.red {
-	color: #ff4545;
+.blue {
+	color: ##5a97fa;
 }
 .ar {
 	font-size: 50px;
@@ -84,7 +84,7 @@ p {
 
 .f1{
 	font-size: 60px;
-	color: #ff4545;
+	color: #5a97fa;
 	text-decoration: bold;
 	margin-right: 10px;
 }
