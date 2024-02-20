@@ -2,7 +2,7 @@ html {
 	margin-left: 80px;
 	color: ghostwhite;
 	background-color: #171717;
-	margin-top: 40px;
+	margin-top: 30px;
 }
 h1 {
 	font-family: roc-grotesk-extrawide, sans-serif;
@@ -16,7 +16,7 @@ h1 {
 }
 h1>span { 
 	background-color: ghostwhite;
-  	line-height: 1.75
+  	line-height: 1.75;
 }
 h2 {
 	font-family: forma-djr-text, sans-serif;
@@ -74,6 +74,7 @@ h5 {
 	margin-top: 50px;
 	margin-right: 800px;
 	margin-bottom: -5px;
+	margin-left: -20px;
 }
 div {
 	font-family: forma-djr-micro, sans-serif;
@@ -93,9 +94,21 @@ a:link {
 	color:black;
 	text-decoration: none;
 	background-color: ghostwhite;
+	margin-top: 20px;
+	margin-right: 800px;
+	margin-bottom: 100px;
+	margin-left: 20px;
 }
 a:hover {
 	color:#4f87ff;
 	text-decoration: none;
 	color: #5a97fa;
+}
+h6 {
+	font-family: roc-grotesk-extrawide, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: -20px;
 }
