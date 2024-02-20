@@ -2,6 +2,7 @@ html {
 	margin-left: 80px;
 	color: ghostwhite;
 	background-color: #171717;
+	margin-top: 40px;
 }
 h1 {
 	font-family: roc-grotesk-extrawide, sans-serif;
@@ -25,6 +26,10 @@ h2 {
 	margin-bottom: 50px;
 	margin-top: 10px;
 } 
+h2>span {
+	font-size: 40px;
+	font-style: normal;
+}
 h3 {
 	font-family: roc-grotesk-wide, sans-serif;
 	font-weight: 400;
@@ -77,6 +82,7 @@ div {
 	font-size: 20px;
 	margin-right: 750px;
 	margin-top: 10px;
+	all
 
 }
 a:visited {
@@ -92,10 +98,4 @@ a:hover {
 	color:#4f87ff;
 	text-decoration: none;
 	color: #5a97fa;
-}
-<style>
-.square {
-  height: 50px;
-  width: 50px;
-  background-color: #555;
 }
