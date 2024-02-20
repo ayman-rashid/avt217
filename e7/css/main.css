@@ -1,7 +1,7 @@
 html {
 	margin-left: 80px;
-	color: white;
-	background-color: black;
+	color: ghostwhite;
+	background-color: #171717;
 }
 h1 {
 	font-family: roc-grotesk-extrawide, sans-serif;
@@ -12,15 +12,13 @@ h1 {
 	line-height: 80px;
 	margin-bottom: 10px;
 }
-h1>span {
-	color: darkred;
-}
 h2 {
 	font-family: forma-djr-text, sans-serif;
 	font-weight: 300;
 	font-style: italic;
 	font-size: 30px;
 	margin-bottom: 70px;
+	margin-top: 10px;
 }
 h3 {
 	font-family: roc-grotesk-wide, sans-serif;
@@ -29,9 +27,10 @@ h3 {
 	font-size: 30px;
 	margin-right: 600px;
 	margin-bottom: 5px;
+	color: black;
 }
 h3>span {
-	background-color: darkred;
+	background-color: ghostwhite;
   	line-height: 1.75
 }
 h4 {
