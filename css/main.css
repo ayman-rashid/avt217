@@ -66,6 +66,22 @@ p1 {
 	font-size: 40px;
 }
 
+@media screen and (max-width: 900px) {
+	html {
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+	h1 {
+		font-size: 150px;
+		margin-left: 1px;
+		margin-bottom: 60px;
+	}
+	h2 {
+		font-size: 25px;
+		margin-top: 10px;
+	}
+}
+
 
 
 
