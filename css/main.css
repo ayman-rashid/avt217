@@ -68,17 +68,21 @@ p1 {
 
 @media screen and (max-width: 900px) {
 	html {
-		margin-right: 20px;
+		margin-right: 10px;
 		margin-left: 10px;
 	}
 	h1 {
-		font-size: 150px;
-		margin-left: 1px;
-		margin-bottom: 60px;
+		font-size: 100px;
+		margin-bottom: 40px;
 	}
 	h2 {
-		font-size: 25px;
-		margin-top: 10px;
+		font-size: 18px;
+		margin-top: 2px;
+		margin-bottom: 60px;
+	}
+	.category {
+		font-size: 30px;
+		text-align: right;
 	}
 }
 
