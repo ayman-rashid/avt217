@@ -1,0 +1,56 @@
+.container {
+	width: 1100px;
+	height: 1070px;
+.mv {
+/*margin vertical*/ 
+	height: 530px;
+	width: 100px;
+	background-color: seagreen;
+	margin-bottom: 10px;
+	float: left;
+}
+.mv2 {
+/*margin vertical 2*/
+	height: 530px;
+	width: 100px;
+	background-color: seagreen;
+	margin-bottom: 10px;
+	float: left;
+}
+.mv3 {
+/*margin vertical 3*/
+	height: 530px;
+	width: 100px;
+	margin-left: 10px;
+	background-color: seagreen;
+	float: inline-start;
+}
+.mh {
+/*margin horizontal*/
+	height: 130px;
+	width: 790px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-color: seagreen;
+}
+.mh2 {
+/*margin horizontal2*/
+	height: 130px;
+	width: 790px;
+	margin-left: 10px;
+	background-color: seagreen;
+	float: left;
+}
+.middletop {
+	float: left;
+}
+.sqr {
+/*square*/
+	height: 390px;
+	width: 390px;
+	margin-left: 10px;
+	background-color: seagreen;
+	float: left;
+
+}

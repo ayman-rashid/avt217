@@ -1,0 +1,32 @@
+.container {
+	width: 930px;
+	height: 1095px;
+}
+.h {
+	height: 160px;
+	background-color: seagreen;
+	margin-bottom: 100px;
+}
+.bt {
+	width: 735px;
+	height: 500px;
+	margin-bottom: 15px;
+	background-color: seagreen;
+	float: left;
+}
+.info {
+	width: 180px;
+	height: 240px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+	background-color: seagreen;
+	float: left;
+}
+.btsub {
+	width: 735px;
+	height: 60px;
+	margin-bottom: 15px;
+	background-color: seagreen;
+	float: inline-start;
+	margin-bottom: 100px;
+}

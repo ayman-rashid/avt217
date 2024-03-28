@@ -1,0 +1,18 @@
+body {
+	margin: 0;
+}
+.white {
+	background-color: seashell;
+}
+.green {
+	background-color: seagreen;
+}
+.green, .white {
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.board {
+	width: 800px;
+
+}

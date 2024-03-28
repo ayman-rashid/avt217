@@ -1,0 +1,42 @@
+body {
+	margin: 15px;
+	display: flex;
+	justify-content: center;
+}
+.container {
+	width: 930px;
+	height: 930px;
+}
+.head {
+	background-color: seagreen;
+	height: 100px;
+	width: 930px;
+	margin-bottom: 15px;
+}
+.subhead {
+	background-color: seagreen;
+	height: 20px;
+	width: 930px;
+	margin-bottom: 15px;
+}
+.column1, .column2 {
+	height: 665px;
+	width: 300px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	float: left;
+	background-color: seagreen;
+}
+.column3 {
+	height: 665px;
+	margin-bottom: 15px;
+	width: 300px;
+	float: left;
+	background-color: seagreen;
+}
+.footer {
+	height: 100px;
+	width: 930px;
+	background-color: seagreen;
+	float: inline-start;
+}
