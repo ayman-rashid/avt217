@@ -1,3 +1,6 @@
+body {
+	max-height: 800px;
+}
 img {
 	float: left;
 	max-width: 250px;
@@ -8,4 +11,5 @@ h1 {
 	font-family: "din-condensed", sans-serif;
 	font-weight: 400;
 	font-style: normal;
+	overflow-y: scroll;
 }

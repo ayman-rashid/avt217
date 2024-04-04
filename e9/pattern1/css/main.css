@@ -1,0 +1,46 @@
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 1500px;
+}
+.tile1 {
+    background-color: #463f3a;
+    height: 50px;
+    width: 100px;
+    margin-top: 25px;
+    float: left;
+}
+.tile2 {
+    background-color: #8a817c;
+    height: 100px;
+    width: 50px;
+    float: left;
+}
+.tile3 {
+    background-color: #463f3a;
+    height: 50px;
+    width: 25px;
+    margin-top: 0px;
+    float: left;
+}
+.tile4 {
+    background-color: #463f3a;
+    height: 50px;
+    width: 100px;
+    margin-top: 0px;
+    float: left;
+}
+.tile5 {
+    background-color: #8a817c;
+    height: 100px;
+    width: 50px;
+    margin-top: -25px;
+    float: left;
+}
+.tile6 {
+    background-color: #463f3a;
+    height: 50px;
+    width: 75px;
+    margin-top: 0px;
+    float: left;
+}

@@ -1,0 +1,48 @@
+body {
+  margin: 0px;
+  max-width: 1500px;
+  background-color: #0f3a57;
+}
+.group1 {
+  margin-right: 0px;
+}
+.tile1 {
+  width: 200px;
+  height: 100px;
+  background: #cbe5f6;
+  border-radius: 100px / 50px;
+  float: left;
+  rotate: -45deg;
+  margin-left: -45px;
+  margin-top: 25px;
+}
+.tile2 {
+  width: 200px;
+  height: 100px;
+  background: #eef6fc;
+  border-radius: 100px / 50px;
+  float: left;
+  rotate: 45deg;
+  margin-left: -45px;
+  margin-top: 25px;
+}
+.tile3 {
+  width: 200px;
+  height: 100px;
+  background: #eef6fc;
+  border-radius: 100px / 50px;
+  float: left;
+  rotate: 45deg;
+  margin-left: -45px;
+  margin-top: 50px;
+}
+.tile4 {
+  width: 200px;
+  height: 100px;
+  background: #cbe5f6;
+  border-radius: 100px / 50px;
+  float: left;
+  rotate: -45deg;
+  margin-left: -45px;
+  margin-top: 50px;
+}
